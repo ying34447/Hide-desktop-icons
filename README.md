@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🖥️ 桌面隐身工具 (Desktop Invisible Tool)
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -149,8 +146,8 @@ python main.pyw
 
 ## 📬 联系与反馈
 
-- **GitHub Issues**：[提交问题或建议](https://github.com/yourusername/desktop-invisible-tool/issues)
-- **邮箱**：your-email@example.com
+- **GitHub Issues**：[提交问题或建议](https://github.com/ying34447/Hide-desktop-icons/issues)
+- **邮箱**：a477355065@ying3477.xyz
 
 ---
 
