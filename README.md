@@ -105,8 +105,9 @@ python main.pyw
 ---
 
 ## 📸 截图预览
+<img width="381" height="810" alt="image" src="https://github.com/user-attachments/assets/f464a011-608a-4a87-bea0-dcd05de9104d" />
 
-（此处可放置界面截图，例如主窗口、日志查看器、托盘菜单等）
+
 
 ---
 
