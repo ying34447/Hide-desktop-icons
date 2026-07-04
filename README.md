@@ -63,14 +63,14 @@
 ## 📦 安装与使用
 
 ### 方式一：直接运行 EXE（推荐）
-1. 从 [Releases](https://github.com/yourusername/desktop-invisible-tool/releases) 下载最新 `DesktopTool.exe`
+1. 从 [Releases](https://github.com/ying34447/Hide-desktop-icons/releases) 下载最新 `DesktopTool.exe`
 2. 双击运行，程序即出现在系统托盘中
 3. 右键托盘图标可进行设置或退出
 
 ### 方式二：源码运行（需 Python 环境）
 ```bash
-git clone https://github.com/yourusername/desktop-invisible-tool.git
-cd desktop-invisible-tool
+git clone https://github.com/ying34447/Hide-desktop-icons.git
+cd Hide-desktop-icons
 pip install -r requirements.txt
 python main.pyw
 ```
